@@ -379,6 +379,10 @@ strong {
   overflow-y: auto;
 }
 
+.modal-body .img-fluid {
+  max-height: 300px;
+}
+
 .modal-title {
   font-weight: 500;
 }
